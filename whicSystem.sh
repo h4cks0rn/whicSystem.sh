@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Author: th3hostname (ak)
+# Author: h4cks0rn (ak)
 
 ip_address=$1
 
